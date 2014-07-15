@@ -1,0 +1,4 @@
+odoosh
+======
+
+Odoo/OpenERP SHell
